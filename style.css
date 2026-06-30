@@ -1,6 +1,7 @@
 *{
     margin:0px;
     padding:0px;
+    
 }
 
 .background{
@@ -96,11 +97,56 @@ body {
 .text2{
     position: absolute;
     top: 329px;
-    left: 472px;
+    left: 454px;
     z-index: 10;
     font-size: 21px;
     color: rgb(255, 255, 255);
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     display:inline;
     text-align: center;
+}
+.text3{
+    position: absolute;
+    top: 375px;
+    left: 321px;
+    z-index: 10;
+    font-size: 21px;
+    color: rgb(255, 255, 255);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    display: inline;
+    text-align: center;
+}
+.text4{
+    position: absolute;
+    top: 426px;
+    left: 358px;
+    z-index: 10;
+    font-size: 21px;
+    color: rgb(255, 255, 255);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    display: inline;
+    text-align: center;
+    width: 439px;
+    opacity:0.4;
+    background-color: black;
+    border: 2px solid grey;
+}
+.getstarted {
+    text-align: center;
+    width: auto;
+    height: 22px;
+    padding: 10px;
+    position: absolute;
+    z-index: 11;
+    font-size: large;
+    color: rgb(255, 255, 255);
+    top: 420px;
+    left: 813px;
+    background-color: red;
+    border-radius: 3px;
+    font-family: 'Roboto';
+    transition: background-color 0.4s ease-out;
+}
+.getstarted:hover{
+    background-color: rgb(163, 0, 0);
 }
