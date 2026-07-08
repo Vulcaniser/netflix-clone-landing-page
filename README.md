@@ -1,10 +1,22 @@
-# netflix clone landing page
-<div> A webpage that looks like the Netflix starting page</div>
+
+<div> A recreation of the Netflix landing page. </div>
 <br>
-<div> This is a timeline of the attempts I made in recreating the Netflix landing page </div>
+<h1>Progress Timeline</h1>
 <br>
-<div>#1st attempt: Had absolutely no idea about flexboxes so manually placed every element </div>
+<h2>Attempt 1</h2>
 <br>
-<div>#2nd attempt: Just learnt flexboxes, trying to figure out the structuring but had issues with arranging the elements.</div>
+<p>Built entirely using manual positioning because I hadn't learned Flexbox yet.</p>
 <br>
-<div>#3rd attempt: Got a better understanding of HTML structuring and flexboxes, managed to arrange the elements properly with correct spacing and position all using flexboxes. Eventually felt a little burnt out so moved on with something new (hope to finish it in the future) </div>
+<h2>Attempt 2</h2>
+<br>
+<p>After learning Flexbox, I restructured the layout. I understood the basics but still struggled with spacing and arranging elements efficiently.</p>
+<br>
+<h2>Attempt 3</h2>
+<br>
+<p>With a better understanding of HTML structure and Flexbox, I rebuilt the layout using proper containers and Flexbox instead of manual positioning. The overall structure became much cleaner and easier to maintain.
+
+At this point, I decided to move on to JavaScript to continue learning rather than spending more time polishing the same project.
+
+I plan to revisit this project in the future to make it fully responsive and add interactivity with JavaScript.
+
+</p>
