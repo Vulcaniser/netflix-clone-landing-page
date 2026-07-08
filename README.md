@@ -3,7 +3,6 @@
 <div> A recreation of the Netflix landing page. </div>
 <br>
 <h2>Progress Timeline</h2>
-<br>
 <h3>Attempt 1</h3>
 <br>
 <p>Built entirely using manual positioning because I hadn't learned Flexbox yet.</p>
@@ -21,6 +20,8 @@ At this point, I decided to move on to JavaScript to continue learning rather th
 I plan to revisit this project in the future to make it fully responsive and add interactivity with JavaScript.
 
 </p>
+<br>
+<br>
 
 <h2>Skills Practiced</h2>
 
