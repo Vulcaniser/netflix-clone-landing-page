@@ -25,9 +25,11 @@ I plan to revisit this project in the future to make it fully responsive and add
 <h2>Skills Practiced</h2>
 
 <p>
-- HTML5
-- CSS3
-- Flexbox
-- Basic page layout
-- Responsive design concepts (work in progress)
+  <ul>
+    <li> HTML5</li>
+    <li> CSS3 </li>
+    <li> Flexbox </li>
+    <li> Basic page layout </li>
+    <li> Responsive design concepts (work in progress) </li>
+  </ul>
 </p>
