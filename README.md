@@ -21,3 +21,13 @@ At this point, I decided to move on to JavaScript to continue learning rather th
 I plan to revisit this project in the future to make it fully responsive and add interactivity with JavaScript.
 
 </p>
+
+<h2>Skills Practiced</h2>
+
+<p>
+- HTML5
+- CSS3
+- Flexbox
+- Basic page layout
+- Responsive design concepts (work in progress)
+</p>
