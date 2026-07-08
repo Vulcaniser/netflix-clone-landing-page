@@ -1,0 +1,88 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.main{
+    background-image: url(https://cdn.mos.cms.futurecdn.net/rDJegQJaCyGaYysj2g5XWY-1200-80.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:80vh;
+    width:100%;
+    position:relative;
+
+}
+.logo{
+    filter:brightness(0.9);
+}
+
+
+nav{
+    display:flex;
+    width: 80%;
+    justify-content: space-between;
+    align-items: center;
+    margin:auto;
+    height:10vh;
+
+}
+.buttons{
+    display:flex;
+    gap:10px;
+}
+.lang{
+    border: 2px solid white;
+    width: 100px;
+    height:30px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 7px;
+    color: white;
+    filter: brightness(0.9);
+    
+}
+
+.signin{
+    background-color:red;
+    height:30px;
+    width:70px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 7px;
+    color: white;
+    filter: brightness(0.9);
+}
+.overlay{
+    height:80vh;
+    position:absolute;
+    background-color:black;
+    width:100%;
+    opacity:0.44
+}
+.hero{
+    height:60vh;
+    width:100%;
+    justify-items: center;
+     align-content: center;
+}
+.text1{
+    color:white;
+    filter:brightness(0.9);
+    font-size:56px;
+    text-align: center;
+    
+}
+.text2{
+   color:white;
+    filter:brightness(0.9);
+    font-size:36px;
+    text-align: center; 
+}
+.text3{
+   color:white;
+    filter:brightness(0.9);
+    font-size:26px;
+    text-align: center; 
+}
