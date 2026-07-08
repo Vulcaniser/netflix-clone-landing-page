@@ -1,17 +1,18 @@
-
+<h1>Netflix Clone Landing Page</h1>
+<br>
 <div> A recreation of the Netflix landing page. </div>
 <br>
-<h1>Progress Timeline</h1>
+<h2>Progress Timeline</h2>
 <br>
-<h2>Attempt 1</h2>
+<h3>Attempt 1</h3>
 <br>
 <p>Built entirely using manual positioning because I hadn't learned Flexbox yet.</p>
 <br>
-<h2>Attempt 2</h2>
+<h3>Attempt 2</h3>
 <br>
 <p>After learning Flexbox, I restructured the layout. I understood the basics but still struggled with spacing and arranging elements efficiently.</p>
 <br>
-<h2>Attempt 3</h2>
+<h3>Attempt 3</h3>
 <br>
 <p>With a better understanding of HTML structure and Flexbox, I rebuilt the layout using proper containers and Flexbox instead of manual positioning. The overall structure became much cleaner and easier to maintain.
 
